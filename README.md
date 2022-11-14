@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning how to be a Full Stack Developer
 
-- hope you enjoy your life
+- ⚡ Hope you enjoy your life
 <!--
 **gggg2614/gggg2614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
